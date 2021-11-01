@@ -1,0 +1,19 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: darkmagenta;
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+h1 + p {
+    color: deeppink;
+}
+
+h2 + p {
+    color: violet;
+}
