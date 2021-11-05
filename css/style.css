@@ -17,3 +17,23 @@ h1 + p {
 h2 + p {
     color: violet;
 }
+
+.first {
+    color: red;
+}
+
+.second {
+    color: blue;
+}
+
+.third {
+    color: green;
+}
+
+.fourth {
+    color: yellow;
+}
+
+.fifth {
+    color: magenta;
+}
